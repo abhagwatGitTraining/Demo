@@ -1,1 +1,3 @@
 Change in Bug branch
+
+Change 2 in bug branch
