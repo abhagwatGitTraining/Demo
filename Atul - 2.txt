@@ -1,5 +1,5 @@
 Change in Bug branch
 
-Change 2 in bug branch
+Change 2 in bug branch : Modified in bug234
 
 Change 3 in bug branch
