@@ -1,3 +1,6 @@
 Copied change
 
 Changed from remote
+
+Change for VS
+
