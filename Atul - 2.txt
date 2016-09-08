@@ -7,3 +7,5 @@ Change 2 in bug branch : Modify in Master and bug234
 Change 3 in bug branch
 
 Change 4 in bug branch from remote
+
+Change 5 in bug branch from remote
